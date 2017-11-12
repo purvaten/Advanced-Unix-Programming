@@ -9,3 +9,5 @@ To run-
 .......
 ./even (execute this first)
 ./odd
+
+Result will be stored in ass2.txt
